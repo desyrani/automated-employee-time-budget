@@ -13,9 +13,9 @@ This repository contains the codebase for the Employee Time Budget system, desig
 **1. Code**
 
 This file contains the core logic for the Employee Time Budget system, including scripts for:
-    - Fetching calendar events and syncing them with Google Sheets.
-    - Performing calculations for weekly and monthly time budgets.
-    - Automating the exclusion of holidays, breaks, and out-of-office activities.
+- Fetching calendar events and syncing them with Google Sheets.
+- Performing calculations for weekly and monthly time budgets.
+- Automating the exclusion of holidays, breaks, and out-of-office activities.
 
 **Key Functions:**
 
