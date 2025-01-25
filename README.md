@@ -12,7 +12,7 @@ This repository contains the codebase for the Employee Time Budget system, desig
 
 **1. Code**
 
-This folder contains the core logic for the Employee Time Budget system, including scripts for:
+This file contains the core logic for the Employee Time Budget system, including scripts for:
     - Fetching calendar events and syncing them with Google Sheets.
     - Performing calculations for weekly and monthly time budgets.
     - Automating the exclusion of holidays, breaks, and out-of-office activities.
@@ -26,7 +26,7 @@ This folder contains the core logic for the Employee Time Budget system, includi
 
 **2. Custom**
 
-This folder includes custom scripts and configurations to adapt the system to specific organizational needs.
+This file includes custom scripts and configurations to adapt the system to specific organizational needs.
 
 **Highlights:**
 
@@ -36,7 +36,7 @@ This folder includes custom scripts and configurations to adapt the system to sp
 
 **3. UI**
 
-This folder contains code for the user interface, which enhances user interaction with the system.
+This file contains code for the user interface, which enhances user interaction with the system.
 
 **Features:**
 
